@@ -5,6 +5,8 @@ Original paper title: "Pothole Segmentation and Area Estimation with Deep Neural
 
 [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-47966-3_29)
 
+[Youtube channel](https://www.youtube.com/@robotperception6035)
+
 ## How To Download
 For pothole segmentation and area estimation, all of the necessary files are available on the GitHub repo and can be obtained by simply downloading or cloning the repo.
 
